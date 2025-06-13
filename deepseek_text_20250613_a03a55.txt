@@ -1,0 +1,10 @@
+
+## How to Deploy to GitHub Pages
+
+1. Create a new repository on GitHub named `mock-selicorneon`
+2. Push all files to the `main` branch
+3. Go to Repository Settings → Pages
+4. Select "Deploy from a branch" and choose `main` branch
+5. Your site will be live at `https://yourusername.github.io/mock-selicorneon/`
+
+Note: You'll need to replace placeholder images with actual assets to match the original site perfectly.
