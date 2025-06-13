@@ -1,4 +1,4 @@
-mock-selicorneon/
+mock/
 ├── index.html
 ├── css/
 │   └── style.css
